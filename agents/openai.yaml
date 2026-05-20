@@ -1,4 +1,4 @@
 interface:
   display_name: "Modern C++ Programmer"
-  short_description: "C++ guardrails for careful reading and implementation"
-  default_prompt: "Use $modern-cpp-programmer to avoid common C++ analysis and implementation mistakes while working on this task."
+  short_description: "C++ guardrails for reading, writing, and validation"
+  default_prompt: "Use $modern-cpp-programmer to follow careful C++ code-reading, implementation, and focused-validation rules for this task."
