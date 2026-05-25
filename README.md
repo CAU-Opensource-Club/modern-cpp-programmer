@@ -6,4 +6,4 @@
 
 ## License
 
-0BSD
+MIT
